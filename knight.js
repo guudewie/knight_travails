@@ -72,24 +72,4 @@ function knightMoves(start, end) {
 
 }
 
-console.log(knightMoves([0,0], [7,7]))
-
 module.exports = knightMoves;
-
-
-
-// Convert start and end coordinates to grid indices
-
-// Initialize the queue for BFS
-
-// Mark the start position as visited
-
-// Perform BFS
-
-  // Check if we have reached the destination
-
-  // Try all possible moves
-
-    // Check if the new position is within the chessboard and not visited
-    
-      // Mark the new position as visited
